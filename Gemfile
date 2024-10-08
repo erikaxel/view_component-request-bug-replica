@@ -25,4 +25,4 @@ end
 
 
 
-gem "view_component", "~> 3.16"
+gem "view_component", "~> 3.17"
